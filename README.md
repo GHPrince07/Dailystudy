@@ -2,6 +2,16 @@
 
 This is written for recording what I did study everyday.
 
+# Sep, 2023
+
+| Date   | Subjects             | Remark, Feeling |
+| ------ | -------------------- | --------------- |
+| 1, Fri | coding test practice |                 |
+|        |                      |                 |
+|        |                      |                 |
+
+
+
 # July, 2022
 
 |Date|Subjects|Remark, Feeling|
@@ -11,10 +21,9 @@ This is written for recording what I did study everyday.
 
 ## Second Section
 
-
 <a id="equ2.4"></a>
 $$
-f(X) \tag{2.4}
+f(X)  \tag{2.4}
 $$
 
 
@@ -24,3 +33,16 @@ When you call Section 'Dailystudy', [Dailystudy](#dailystudy)
 When you call Section 'July, 2022', [July, 2022](#july-2022)
 
 When you call the equation (2.4), [equ 2.4](#equ2.4)
+
+
+
+
+
+
+
+
+
+
+
+
+
